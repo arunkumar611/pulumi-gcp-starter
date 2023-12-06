@@ -1,0 +1,4 @@
+environment:
+- gcp-oidc
+# config:
+#   gcp:project: pulumi-oidc
